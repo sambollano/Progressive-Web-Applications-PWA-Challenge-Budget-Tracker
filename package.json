@@ -1,0 +1,20 @@
+{
+  "name": "progressive-web-applications-pwa-challenge-budget-tracker",
+  "version": "1.0.0",
+  "description": "Module 19 Challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambollano/Progressive-Web-Applications-PWA-Challenge-Budget-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambollano/Progressive-Web-Applications-PWA-Challenge-Budget-Tracker/issues"
+  },
+  "homepage": "https://github.com/sambollano/Progressive-Web-Applications-PWA-Challenge-Budget-Tracker#readme"
+}

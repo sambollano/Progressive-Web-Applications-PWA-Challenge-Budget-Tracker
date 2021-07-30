@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sambollano/Progressive-Web-Applications-PWA-Challenge-Budget-Tracker/issues"
   },
-  "homepage": "https://github.com/sambollano/Progressive-Web-Applications-PWA-Challenge-Budget-Tracker#readme"
+  "homepage": "https://github.com/sambollano/Progressive-Web-Applications-PWA-Challenge-Budget-Tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

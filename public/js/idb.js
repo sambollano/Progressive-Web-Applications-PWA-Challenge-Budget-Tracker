@@ -1,7 +1,7 @@
 // CREATE VARIABLE TO HOLT DB CONNECTION
 let db;
 // ESTABLISH A CONNECTION TO indexedDB
-const request = indexedDB.open('budget_tracker', 1);
+const request = indexedDB.open('progressive-web-applications-pwa-challenge-budget-tracker', 1);
 
 request.onupgradeneeded = function(event) {
     
